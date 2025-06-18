@@ -1,0 +1,34 @@
+Proje Adı: Araç Kiralama Uygulaması
+Öğrenci: Kadir Kaval
+Öğrenci No: 20290265
+
+GitHub Linki: https://github.com/Kadir11511/react-native
+Video Linki: https://www.youtube.com/watch?v=4sFBRWOkQbY
+APK Linki: GitHub README dosyasında Drive linki olarak eklenmiştir.
+
+Proje Özeti:
+Kullanıcıların mobil cihaz üzerinden güvenli, hızlı ve kolay bir şekilde araç kiralama işlemi yapabilmesini sağlar.
+Giriş ekranı güvenli hale getirilmiş, admin ve kullanıcı giriş yetkileri ayrılmıştır.
+Kullanıcı araçları listeleyebilir, detay görebilir, kiralama formu doldurabilir.
+Admin panelinden kiralama talepleri yönetilir.
+
+Kullanılan Teknolojiler:
+- Frontend: React Native
+- Backend: Firebase Authentication ve Firestore DB
+- API: Firebase Functions
+- Bildirim: Firebase Cloud Messaging
+
+Veritabanı:
+- Users: Kullanıcı bilgileri
+- Admins: Admin bilgileri
+- Cars: Araç listesi
+- Reservations: Kiralama talepleri
+- Favorites: Favori araçlar
+
+Kimlik doğrulama Firebase Authentication ile yapılmaktadır. Yetkisiz giriş engellenmiştir.
+
+Durum:
+Uygulama test edilmiştir, APK dosyası Drive linki üzerinden indirilebilir.
+Video anlatımı linkte mevcuttur.
+Projede MSSQL veya PostgreSQL kullanılmamıştır, tüm işlemler Firebase ile yapılmaktadır.
+Proje tamamlanmıştır.
